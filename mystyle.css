@@ -1,0 +1,33 @@
+
+
+h1{
+	color: red;
+
+}
+
+p{
+	color: gray;
+
+}
+
+#blue{
+	color: blue;
+}
+
+#green{
+	color: green;
+}
+
+font{
+	font-family: Roboto;
+}
+
+body{
+	font-family: Roboto;
+	text-align: center;
+	background-color: #ffffff;
+}
+
+ul {
+	list-style: none;
+}
